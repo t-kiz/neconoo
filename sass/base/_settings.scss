@@ -13,7 +13,7 @@ $light-gray-100: #aaa;
 
 html, body {
   font-family: Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
-  color: white;
+  color: gray;
   background: url("../img/bg.png");
 }
 
@@ -70,7 +70,7 @@ div.floating-nav {
 	  		padding: 0 20px;
 	  		color: white;
 	  		text-decoration: none;
-	  		font-size: 20px;
+	  		font-size: 14px;
 	  		&:hover {
 	  			background: rgba(255,255,255,0.2);
 	  		}
